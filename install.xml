@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<contrib>
+    <description>
+        <details contrib_type="Модули оплаты" last_update="2020-11-20"/>
+        <comments>Модуль оплаты Экспресс Платежи: E-POS</comments>
+        <credits>Автор: ООО ТриИнком</credits>
+    </description>
+	<addfile>
+		<file name="expresspayepos_notify.php" />
+        <file name="expresspayepos_result.html" />
+        <file name="expresspayepos_result.php" />
+        <file name="includes/modules/payment/expresspayepos.php" />
+        <file name="lang/russian/modules/payment/expresspayepos.php" />
+	</addfile>
+</contrib>
